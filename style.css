@@ -1,0 +1,16 @@
+.head {
+    border-bottom: 3px solid black
+
+}
+body{
+    background-color: blue;
+
+}
+.place-1{
+    text-decoration: dashed;
+
+}
+h1{
+    font-size: 40px;
+    color:aqua
+}
